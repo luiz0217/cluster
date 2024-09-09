@@ -1,0 +1,8 @@
+genre,track_name,genre_encoded,kmeans_cluster,agg_cluster,final_cluster
+blues,4604,0,0,1,1
+country,5445,1,0,1,1
+hip hop,904,2,2,0,0
+jazz,3845,3,0,0,0
+pop,7042,4,1,2,2
+reggae,2498,5,0,0,0
+rock,4034,6,0,0,0
